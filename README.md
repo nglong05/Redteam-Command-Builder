@@ -1,14 +1,4 @@
-# Red Team Command Builder (redteam::cmd-builder)
-
-Bài thực hành 1 — **Lập trình Web** (Frontend với React).
-
-Ứng dụng web **nhiều trang** liệt kê các **command** của một red teamer theo **từng giai đoạn tấn công**
-và cho phép **dựng lệnh động**: chọn giai đoạn → chọn command → tick switch → app tự ghép thành dòng
-lệnh hoàn chỉnh để copy hoặc gom vào một kịch bản, xuất ra script `.sh`.
-
-> ⚠️ **Chỉ dùng cho mục đích học tập.** Các lệnh chỉ nên chạy trên hệ thống bạn sở hữu hoặc được ủy
-> quyền kiểm thử (CTF, lab, hợp đồng pentest). Ứng dụng **không thực thi** bất kỳ lệnh nào — chỉ sinh
-> ra chuỗi văn bản.
+# Red Team Command Builder
 
 ## 5 trang / chức năng
 
@@ -49,5 +39,3 @@ src/
   components/ Layout · PhaseTabs · CommandCard · SwitchItem · CommandOutput · Icons
   pages/     Builder · Cheatsheet · Playbook · Tools · Settings
 ```
-
-Xem **`BAOCAO.md`** để đọc báo cáo đầy đủ.
