@@ -1,6 +1,6 @@
 # Red Team Command Builder (redteam::cmd-builder)
 
-Bài kiểm tra giữa kỳ — **Lập trình Web** (Frontend với React).
+Bài thực hành 1 — **Lập trình Web** (Frontend với React).
 
 Ứng dụng web **nhiều trang** liệt kê các **command** của một red teamer theo **từng giai đoạn tấn công**
 và cho phép **dựng lệnh động**: chọn giai đoạn → chọn command → tick switch → app tự ghép thành dòng

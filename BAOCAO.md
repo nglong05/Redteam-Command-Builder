@@ -1,4 +1,4 @@
-# BÁO CÁO BÀI KIỂM TRA GIỮA KỲ
+# BÁO CÁO BÀI THỰC HÀNH 1
 ## Môn: Lập trình Web
 ### Đề tài: Xây dựng giao diện Frontend bằng React — "Red Team Command Builder"
 
@@ -483,7 +483,7 @@ xuất script, và sao lưu/khôi phục dữ liệu (import/export JSON).
 ## 9. KẾT LUẬN
 
 Đề tài đã xây dựng thành công một ứng dụng frontend **hoàn chỉnh, nhiều trang và nhiều chức năng** bằng
-React, đáp ứng đầy đủ yêu cầu của bài kiểm tra giữa kỳ môn Lập trình Web. Sản phẩm không chỉ minh họa
+React, đáp ứng đầy đủ yêu cầu của bài thực hành 1 môn Lập trình Web. Sản phẩm không chỉ minh họa
 các kỹ thuật React cốt lõi (component, hooks, router, context, localStorage) mà còn giải quyết một bài
 toán thực tế có ý nghĩa với người học an toàn thông tin. Quá trình thực hiện cũng giúp nhóm rèn luyện
 tư duy tách lớp dữ liệu – logic – giao diện, xử lý các tình huống tương tác tinh tế, và chú trọng trải
